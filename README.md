@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nich-analyst
-- 👀 I’m interested in Data Analysis, Database Management and Agile Project Management
+- 👀 I’m interested in Data Analytics, Finance and Agile Project Management
 - 🌱 I’m currently learning Data Analysis and blockchain development
 - 💞️ I’m looking to collaborate on projects that involve using the principles of Data Science
 <!---
